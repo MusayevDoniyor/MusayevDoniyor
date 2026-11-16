@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://doniyorweb.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Building+Autonomous+AI+Agents%2C+3D+Simulators+%26+Backends;Startup+Ambassador+%40+Yoshlar+Ventures;16-year-old+Tech+Innovator+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;TUIT+Academic+Lyceum+%7C+Najot+Ta'lim+Alum" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Building+Autonomous+AI+Agents%2C+3D+Simulators+%26+Backends;Startup+Ambassador+%40+Yoshlar+Ventures;17-year-old+Tech+Innovator+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;TUIT+Academic+Lyceum+%7C+Najot+Ta'lim+Alum" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@
 // ⚡ Terminal: doniyor@tashkent ~
 {
   "name": "Doniyor Musayev",
-  "age": "16 y.o. (Oct 15, 2009)",
+  "age": "17 y.o. (Oct 15, 2009)",
   "origin": "Tashkent, Uzbekistan 🇺🇿",
   "education": "TUIT Academic Lyceum (Economics & Tech, 2025-2027)",
   "roles": [
