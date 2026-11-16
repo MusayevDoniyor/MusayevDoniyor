@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://doniyorweb.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Autonomous+AI+Swarms+%26+3D+Physics+%E2%9A%A1;Startup+Ambassador+%40+Yoshlar+Ventures+%F0%9F%8C%90;17+y.o.+Systems+Architect+%26+Founder+%F0%9F%A7%A0;AI500+National+Finalist+%E2%80%A2+GDG+Laureate+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Autonomous+AI+Swarms+%26+3D+Physics+%E2%9A%A1;Startup+Ambassador+%40+Yoshlar+Ventures+%F0%9F%8C%90;17+y.o.+Systems+Architect+%26+Founder+%F0%9F%A7%A0;Full-Stack%2C+Three.js+%26+AI+Systems+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -71,16 +71,13 @@
 
 ---
 
-## 🏆 Honors & Hackathon Laurels
+## 🏆 Hackathons & Leadership
 
-- 🥉 **Google Developer Groups (GDG) × New Uzbekistan National Hackathon** — *Podium Bronze Laureate (3rd Place Overall out of 100+ Contenders)*
-- 🏆 **National AI500 Engineering Championship** — *Top 13% Elite Nation-Wide Ranking across 500+ Deep-Tech AI Builders*
-- 🎖️ **Central Asian Enterprise Systems Grand Prix (Bitrix Core)** — *Grand Finalist & High-Performance Architecture Prize*
-- 🌐 **Silk Road International Financial & Technology Summit (2026)** — *Selected Official Technology Delegate Representing Yoshlar Ventures*
-- ⚡ **Selective Elite Fellowships & Programs:**
-  - *UzCombinator Founders' Camp — Accelerated Systems Architect & Founder*
-  - *Yoshlar Ventures — Startup Ambassador & Ecosystem Fellow*
-  - *Top100Uni International Summer Institute — Global Leadership Scholar*
+- 🥉 **GDG × New Uzbekistan University Hackathon** — *3rd Place (Bronze)*
+- 🏆 **National AI500 Hackathon** — *Finalist Team (Top 13%)*
+- 🎖️ **Regional Innovation Hackathon (Bitrix)** — *Finalist*
+- 🌐 **Silk Road Finance & Technology Forum (Tashkent, 2026)** — *Youth Delegate (Yoshlar Ventures)*
+- ⚡ **Fellowships & Camps:** *UzCombinator Founders' Camp*, *Startup Ambassadors Camp*, *Top100Uni Summer Camp*
 
 ---
 
