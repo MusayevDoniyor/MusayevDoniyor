@@ -27,6 +27,7 @@
   "age": "17 y.o. (Oct 15, 2009)",
   "origin": "Tashkent, Uzbekistan",
   "education": "TUIT Academic Lyceum (Economics & Tech, 2025-2027)",
+  "languages": "English (IELTS 7.5 - C1) · Uzbek (Native) · Russian",
   "roles": [
     "Co-Founder & CTO @ Uniin & Sadoo",
     "Startup Ambassador @ Yoshlar Ventures",
@@ -48,6 +49,7 @@
 | 🎖️ | **Regional Innovation Hackathon (Bitrix)** | Finalist |
 | 🌐 | **Silk Road Finance & Tech Forum (2026)** | Youth Delegate |
 | ⚡ | **Fellowships** | UzCombinator · Startup Ambassadors · Top100Uni |
+| 🎯 | **IELTS Academic** | Band 7.5 (C1 Advanced) |
 
 ---
 
