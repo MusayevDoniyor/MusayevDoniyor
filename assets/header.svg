@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0d1322" />
+      <stop offset="100%" stop-color="#070a10" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="cyan-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF" />
+      <stop offset="50%" stop-color="#00FFA3" />
+      <stop offset="100%" stop-color="#7928CA" />
+    </linearGradient>
+
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF" />
+      <stop offset="60%" stop-color="#38E8FF" />
+      <stop offset="100%" stop-color="#B026FF" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#162035" stroke-width="0.7" stroke-opacity="0.6"/>
+    </pattern>
+
+    <!-- Radial Glow -->
+    <radialGradient id="center-glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.12" />
+      <stop offset="60%" stop-color="#7928CA" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#080c14" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Filter for neon text glow -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" rx="14" fill="url(#bg-grad)" />
+  <rect width="900" height="220" rx="14" fill="url(#cyber-grid)" />
+  <rect width="900" height="220" rx="14" fill="url(#center-glow)" />
+
+  <!-- Outer Cyber Border -->
+  <rect x="1" y="1" width="898" height="218" rx="13" fill="none" stroke="url(#cyan-purple)" stroke-width="1.2" stroke-opacity="0.5" />
+
+  <!-- Corner Brackets (Hacker UI) -->
+  <path d="M 14 30 L 14 14 L 30 14" stroke="#00F5FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 870 14 L 886 14 L 886 30" stroke="#B026FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 14 190 L 14 206 L 30 206" stroke="#00FFA3" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 870 206 L 886 206 L 886 190" stroke="#00F5FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Top System Badge -->
+  <g transform="translate(340, 26)">
+    <rect x="0" y="0" width="220" height="22" rx="11" fill="#0E1E2E" stroke="#00F5FF" stroke-width="0.8" stroke-opacity="0.6"/>
+    <circle cx="14" cy="11" r="4" fill="#00FF88">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="26" y="15" fill="#00FFCC" font-family="'Fira Code', monospace, Courier" font-size="10" font-weight="600" letter-spacing="1.5">SYSTEM ACTIVE // ONLINE</text>
+  </g>
+
+  <!-- Main Name Typography -->
+  <text x="450" y="98" text-anchor="middle" fill="url(#text-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Montserrat', sans-serif" font-size="44" font-weight="900" letter-spacing="4" filter="url(#neon-glow)">DONIYOR MUSAYEV</text>
+
+  <!-- Accent Decorative Line -->
+  <path d="M 280 114 L 620 114" stroke="url(#cyan-purple)" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.8"/>
+  <circle cx="450" cy="114" r="3" fill="#00F5FF"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="142" text-anchor="middle" fill="#E2E8F0" font-family="'Fira Code', monospace, Courier" font-size="14" font-weight="600" letter-spacing="3">CO-FOUNDER &amp; CTO  •  FULL-STACK &amp; AI SYSTEMS ARCHITECT</text>
+
+  <!-- Pills / Meta Tags -->
+  <g transform="translate(185, 168)">
+    <!-- Pill 1: Age -->
+    <rect x="0" y="0" width="155" height="26" rx="6" fill="#131B2E" stroke="#38BDF8" stroke-width="0.8"/>
+    <text x="77" y="17" text-anchor="middle" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="600">⚡ 17 Y.O. BUILDER</text>
+
+    <!-- Pill 2: Location -->
+    <rect x="175" y="0" width="180" height="26" rx="6" fill="#131B2E" stroke="#A78BFA" stroke-width="0.8"/>
+    <text x="265" y="17" text-anchor="middle" fill="#C4B5FD" font-family="'Fira Code', monospace" font-size="11" font-weight="600">📍 TASHKENT, UZBEKISTAN</text>
+
+    <!-- Pill 3: Education -->
+    <rect x="375" y="0" width="155" height="26" rx="6" fill="#131B2E" stroke="#34D399" stroke-width="0.8"/>
+    <text x="452" y="17" text-anchor="middle" fill="#6EE7B7" font-family="'Fira Code', monospace" font-size="11" font-weight="600">🎓 TUIT ACADEMIC LYCEUM</text>
+  </g>
+</svg>

@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=200&section=header&text=DONIYOR%20MUSAYEV&fontSize=42&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Student%20%E2%80%A2%20Startup%20Builder%20%E2%80%A2%20Full-Stack%20%26%20AI%20Engineer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Doniyor Musayev Header" />
 
   <br/>
 
   <a href="https://doniyorweb.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Building+Autonomous+AI+Agents%2C+3D+Simulators+%26+Backends;Startup+Ambassador+%40+Yoshlar+Ventures;17-year-old+Tech+Innovator+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;TUIT+Academic+Lyceum+%7C+Najot+Ta'lim+Alum" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Building+Autonomous+AI+Agents%2C+Simulators+%26+Backends+%E2%9A%A1;Startup+Ambassador+%40+Yoshlar+Ventures+%F0%9F%8C%90;17-year-old+Tech+Innovator+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;TUIT+Academic+Lyceum+%7C+Najot+Ta%27lim+Alum+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Email-doniyormusayev2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/MusayevDoniyor">
-    <img src="https://komarev.com/ghpvc/?username=MusayevDoniyor&color=00FFCC&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MusayevDoniyor&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 {
   "name": "Doniyor Musayev",
   "age": "17 y.o. (Oct 15, 2009)",
-  "origin": "Tashkent, Uzbekistan 🇺🇿",
+  "origin": "Tashkent, Uzbekistan",
   "education": "TUIT Academic Lyceum (Economics & Tech, 2025-2027)",
   "roles": [
     "Co-Founder & CTO @ Uniin & Sadoo",
