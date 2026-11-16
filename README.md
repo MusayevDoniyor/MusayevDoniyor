@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://doniyorweb.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Autonomous+AI+Swarms+%26+3D+Physics+%E2%9A%A1;Venture+Partner+%40+Yoshlar+Ventures+%F0%9F%8C%90;17+y.o.+Systems+Architect+%26+Founder+%F0%9F%A7%A0;AI500+National+Finalist+%E2%80%A2+GDG+Laureate+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Uniin+%26+Sadoo+%F0%9F%9A%80;Autonomous+AI+Swarms+%26+3D+Physics+%E2%9A%A1;Startup+Ambassador+%40+Yoshlar+Ventures+%F0%9F%8C%90;17+y.o.+Systems+Architect+%26+Founder+%F0%9F%A7%A0;AI500+National+Finalist+%E2%80%A2+GDG+Laureate+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/EXECUTIVE_NETWORK-Doniyor%20Musayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:doniyormusayev2009@gmail.com">
-    <img src="https://img.shields.io/badge/VENTURE_DESK-doniyormusayev2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/FOUNDER_DESK-doniyormusayev2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/MusayevDoniyor">
     <img src="https://komarev.com/ghpvc/?username=MusayevDoniyor&color=00FFCC&style=for-the-badge&label=TERMINAL+HITS" alt="Profile Visits" />
@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VENTURE_STATUS-FOUNDER_%26_CTO-7928CA?style=flat-square&logo=rocket&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/FOUNDER_STATUS-FOUNDER_%26_CTO-7928CA?style=flat-square&logo=rocket&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/COMMIT_VELOCITY-4%2C200%2B_PRODUCTION_PUSHES-00F5FF?style=flat-square&logo=git&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/FLEET_DEPLOYMENTS-34%2B_ACTIVE_CLOUDS-00FF88?style=flat-square&logo=vercel&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/GLOBAL_RANK-TOP_1%25_ENGINEERING_GRADE-FF007A?style=flat-square&logo=github&logoColor=white" />
@@ -43,14 +43,14 @@
 // ⚡ SYSTEM KERNEL: doniyor@deeptech-core [GLOBAL INFRASTRUCTURE ARCHITECT]
 {
   "identity": "Doniyor Musayev",
-  "title": "17 y.o. Deep-Tech Systems Architect & Serial Venture Founder",
+  "title": "17 y.o. Deep-Tech Systems Architect & Startup Founder",
   "clearance": "L5 Architecture / High-Concurrency Distributed Networks",
   "headquarters": "Tashkent Hub ⇄ Global High-Frequency Nodes",
   "academics": "TUIT Academic Lyceum (Quantitative Computing & Mathematical Economics • Accelerated Honors)",
   "executive_deployments": [
-    "Co-Founder & Chief Technology Officer @ Uniin (Venture Higher-Ed Social & Academic Graph)",
+    "Co-Founder & Chief Technology Officer @ Uniin (Large-Scale Higher-Ed Social & Academic Graph)",
     "Co-Founder & Chief Technology Officer @ Sadoo (Next-Gen FinTech & Digital Commerce Engine)",
-    "Venture Partner & Technology Catalyst @ Yoshlar Ventures ($100K+ Seed Innovation Ecosystem)",
+    "Startup Ambassador & Technology Catalyst @ Yoshlar Ventures",
     "Principal Systems Architect & Sprints Mentor @ UzCombinator Founders' Camp",
     "Founding Systems Engineer @ TopCoach Enterprise"
   ],
@@ -79,7 +79,7 @@
 - 🌐 **Silk Road International Financial & Technology Summit (2026)** — *Selected Official Technology Delegate Representing Yoshlar Ventures*
 - ⚡ **Selective Elite Fellowships & Programs:**
   - *UzCombinator Founders' Camp — Accelerated Systems Architect & Founder*
-  - *Yoshlar Ventures Fellow — Tech Ecosystem Catalyst*
+  - *Yoshlar Ventures — Startup Ambassador & Ecosystem Fellow*
   - *Top100Uni International Summer Institute — Global Leadership Scholar*
 
 ---
@@ -122,7 +122,7 @@
       <p align="center">
         <b>Academic Social Network & Intelligence Ecosystem</b>
       </p>
-      <p>Venture-backed platform connecting university applicants worldwide: real-time bidirectional WebSocket messaging, algorithmic content distribution feed, academic intelligence test-scoring, and institutional verification portals.</p>
+      <p>Production platform connecting university applicants worldwide: real-time bidirectional WebSocket messaging, algorithmic content distribution feed, academic intelligence test-scoring, and institutional verification portals.</p>
       <p align="center">
         <a href="https://uniin.uz" target="_blank"><b>[ 🌐 Production: uniin.uz ]</b></a>
       </p>
