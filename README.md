@@ -86,6 +86,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://artemis-odyssey-psi.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/artemis-banner.jpg" width="100%" style="border-radius: 8px;" alt="Artemis Odyssey" />
+      </a>
       <h3 align="center">🛰️ Artemis Odyssey</h3>
       <p align="center">
         <b>3D Orbital Mechanics & Lunar Physics Simulator</b>
@@ -100,6 +103,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/MusayevDoniyor/kaizumi" target="_blank">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/kaizumi-banner.png" width="100%" style="border-radius: 8px;" alt="Kaizumi Voice AI" />
+      </a>
       <h3 align="center">🎙️ Kaizumi Voice AI</h3>
       <p align="center">
         <b>Autonomous Desktop Multimodal AI Agent (⭐ 7 Stars)</b>
@@ -115,6 +121,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://uniin.uz" target="_blank">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/uniin-banner.png" width="100%" style="border-radius: 8px;" alt="Uniin Network" />
+      </a>
       <h3 align="center">🎓 Uniin Network</h3>
       <p align="center">
         <b>Academic Social Network & Intelligence Ecosystem</b>
@@ -128,11 +137,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/MusayevDoniyor/uzex-ai-agent" target="_blank">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/uzex-banner.svg" width="100%" style="border-radius: 8px;" alt="Uzex AI Agent" />
+      </a>
       <h3 align="center">🤖 Uzex AI Agent</h3>
       <p align="center">
         <b>Autonomous Commodity Intelligence & Bidding Engine</b>
       </p>
-      <p>Built for the National Uzex AI Hackathon: autonomous commodity market trend analytics, automated structured contract extraction, price-spike predictive modeling, and autonomous high-frequency bidding execution.</p>
+      <p>Built for the National Uzex AI Hackathon: autonomous commodity market trend analytics across 500,000+ trades, automated structured contract extraction, price-spike predictive modeling, and autonomous high-frequency bidding execution.</p>
       <p align="center">
         <a href="https://github.com/MusayevDoniyor/uzex-ai-agent" target="_blank"><b>[ 💻 GitHub Repository ]</b></a>
       </p>
