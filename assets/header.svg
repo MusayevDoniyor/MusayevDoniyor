@@ -92,9 +92,9 @@
     <rect x="180" y="0" width="175" height="30" rx="8" fill="#0E182A" stroke="#A855F7" stroke-width="1.1"/>
     <text x="267" y="19" text-anchor="middle" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="700">🚀 CTO @ UNIIN &amp; SADOO</text>
 
-    <!-- Pill 3: Venture Ambassador -->
+    <!-- Pill 3: Venture Partner -->
     <rect x="370" y="0" width="195" height="30" rx="8" fill="#0E182A" stroke="#10B981" stroke-width="1.1"/>
-    <text x="467" y="19" text-anchor="middle" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="700">🌐 VENTURE AMBASSADOR</text>
+    <text x="467" y="19" text-anchor="middle" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="700">🌐 VENTURE PARTNER</text>
 
     <!-- Pill 4: Honors -->
     <rect x="580" y="0" width="150" height="30" rx="8" fill="#0E182A" stroke="#F59E0B" stroke-width="1.1"/>
