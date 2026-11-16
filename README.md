@@ -156,19 +156,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MusayevDoniyor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="180" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=MusayevDoniyor&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MusayevDoniyor&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusayevDoniyor&theme=tokyo-night&hide_border=true&area=true&color=00FFCC" width="100%" alt="Activity" />
+  <a href="https://github.com/MusayevDoniyor">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MusayevDoniyor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="175" alt="Doniyor's GitHub Stats" />
+  </a>
+  <a href="https://github.com/MusayevDoniyor">
+    <img src="https://streak-stats.demolab.com?user=MusayevDoniyor&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="Doniyor's Contribution Streak" />
+  </a>
 </div>
 
 ---
