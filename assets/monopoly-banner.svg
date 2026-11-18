@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="100%" height="220" fill="none">
+  <defs>
+    <linearGradient id="monopoly-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0814" />
+      <stop offset="50%" stop-color="#140f26" />
+      <stop offset="100%" stop-color="#080511" />
+    </linearGradient>
+
+    <linearGradient id="monopoly-neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="50%" stop-color="#F472B6" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <pattern id="grid-dots-mono" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#4c1d95" fill-opacity="0.4"/>
+    </pattern>
+
+    <filter id="purple-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="220" rx="12" fill="url(#monopoly-bg)" />
+  <rect width="600" height="220" rx="12" fill="url(#grid-dots-mono)" />
+  <rect x="1" y="1" width="598" height="218" rx="11" fill="none" stroke="url(#monopoly-neon)" stroke-width="1.2" stroke-opacity="0.6"/>
+
+  <!-- Isometric Board/Dice Watermark -->
+  <g opacity="0.10" stroke="#C084FC" stroke-width="1.5">
+    <rect x="60" y="40" width="120" height="120" rx="10" transform="rotate(15 120 100)" />
+    <rect x="420" y="40" width="120" height="120" rx="10" transform="rotate(-15 480 100)" />
+  </g>
+
+  <!-- HUD Tag -->
+  <g transform="translate(195, 25)">
+    <rect x="0" y="0" width="210" height="22" rx="11" fill="#1E1B4B" stroke="#A855F7" stroke-width="0.8" stroke-opacity="0.8"/>
+    <circle cx="12" cy="11" r="3.5" fill="#38BDF8"/>
+    <text x="24" y="14.5" fill="#E9D5FF" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700" letter-spacing="1.5">3D SIMULATION ENGINE</text>
+  </g>
+
+  <!-- Title -->
+  <text x="300" y="85" text-anchor="middle" fill="url(#monopoly-neon)" font-family="'Inter', sans-serif" font-size="28" font-weight="900" letter-spacing="3" filter="url(#purple-glow)">MONOPOLY 3D</text>
+  <text x="300" y="112" text-anchor="middle" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="11" font-weight="600" letter-spacing="1.5">PHYSICS DICE • GRANDMASTER AI • MULTIPLAYER</text>
+
+  <!-- Pills -->
+  <g transform="translate(50, 145)">
+    <rect x="0" y="0" width="150" height="26" rx="6" fill="#1E1B4B" stroke="#A855F7" stroke-width="0.8"/>
+    <text x="75" y="16.5" text-anchor="middle" fill="#E9D5FF" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700">🎲 3D DICE PHYSICS</text>
+
+    <rect x="175" y="0" width="150" height="26" rx="6" fill="#1E1B4B" stroke="#EC4899" stroke-width="0.8"/>
+    <text x="250" y="16.5" text-anchor="middle" fill="#F472B6" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700">🤖 AI TYCOONS</text>
+
+    <rect x="350" y="0" width="150" height="26" rx="6" fill="#1E1B4B" stroke="#38BDF8" stroke-width="0.8"/>
+    <text x="425" y="16.5" text-anchor="middle" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700">⚡ MULTIPLAYER SYNC</text>
+  </g>
+</svg>

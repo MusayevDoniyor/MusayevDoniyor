@@ -124,6 +124,40 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://monopoly-master.onrender.com">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/monopoly-banner.svg" width="100%" alt="Monopoly 3D" />
+      </a>
+      <br/>
+      <h3 align="center">🎲 Monopoly 3D</h3>
+      <p align="center"><b>Interactive 3D Board Game & AI Tycoon Physics</b></p>
+      <p align="center">
+        <a href="https://monopoly-master.onrender.com"><b>🎲 Live Demo</b></a> · <a href="https://github.com/MusayevDoniyor/monopoly-game"><b>💻 Code</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Canvas_3D-A855F7?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://cryptofolio-dun.vercel.app/">
+        <img src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/main/assets/cryptofolio-banner.svg" width="100%" alt="CRYPTOFOLIO" />
+      </a>
+      <br/>
+      <h3 align="center">📈 CRYPTOFOLIO</h3>
+      <p align="center"><b>Decentralized Portfolio & Real-Time Crypto Analytics</b></p>
+      <p align="center">
+        <a href="https://cryptofolio-dun.vercel.app/"><b>🚀 Live Demo</b></a> · <a href="https://github.com/MusayevDoniyor/CRYPTOFOLIO"><b>💻 Code</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/CoinGecko_API-10B981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -157,6 +191,16 @@
 ---
 
 ## 📊 Activity & Telemetry
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MusayevDoniyor/MusayevDoniyor/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/MusayevDoniyor">
